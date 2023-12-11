@@ -27,8 +27,6 @@ pew_pew = ""
 # throw blind emp, destorying all your tech on hand
 your_phone = ""
 
-# OHHH AND THE ROBOT LUNGES AT YOU, you can only survive with a rifle or shotgun, pistol aint enough
-
 # kill robot with mop
 mop_master = ""
 # mop master (killed robot with mop)
